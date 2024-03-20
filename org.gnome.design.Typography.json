@@ -1,7 +1,7 @@
 {
     "id" : "org.gnome.design.Typography",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "45",
+    "runtime-version" : "46",
     "sdk" : "org.gnome.Sdk",
     "command" : "org.gnome.design.Typography",
     "finish-args" : [
@@ -33,8 +33,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://gitlab.gnome.org/World/design/typography/-/archive/0.2.0/typography-0.2.0.tar.gz",
-                    "sha256" : "6a339f031cd4870edb1dd27a4d581611ea372a5b0126d46927b679424056146a"
+                    "url" : "https://gitlab.gnome.org/World/design/typography/-/archive/0.3.0/typography-0.3.0.tar.gz",
+                    "sha256" : "6ade7933e18254c9acd8283f01b2c9f28ee1fd0e434845558570b3e09c92255d"
                 }
             ]
         }
